@@ -1,7 +1,7 @@
 # projects
 For the first time clone the repo:
 
-git clone https://git.txstate.edu/CS3354/projects.git
+git clone https://github.com/smueller0/Object-Oriented-Programming.git
 
 
 
